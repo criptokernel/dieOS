@@ -1,0 +1,4 @@
+void run(){
+    nsh();
+    shutdown();
+}
